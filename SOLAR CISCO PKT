@@ -1,0 +1,6 @@
+The project is the simple simulation of the Solar panel charging the Battery .
+The pkt simulation consist of the components like Solar panel ,battery ,homegateway,tablet 
+The default wireless connect is done in the cisco pkt excluding the tablet which we nee to cofigure with homegateway
+Afer this connect the solar panel with the battery with IOT cabel
+After this go to the attributes and change the input source and output source in the attributes.
+then test it if connection are wrong trouble shhot it
