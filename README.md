@@ -30,3 +30,11 @@ PROCEDURE
 
 RESULT
 We have successfully simulated the Battery Charging from Solar Panel using Cisco Packet Tracer
+
+
+BY TEAM 9:
+Darshan. R                    2362866
+K.R.Kanish Koushik            2362867
+Krishna Vamsi                 2362865
+Ganesh Reddy                  2362868
+
